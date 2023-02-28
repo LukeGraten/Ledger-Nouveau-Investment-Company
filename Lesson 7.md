@@ -7,7 +7,6 @@ Last Edit: 2/28/2023
 ## Table of Contents
 
 * [Introductory Slideshow](#introductory-slideshow)
-* [Introductory Speech](#introductory-speech)
 
 
 ## Introductory Slideshow
@@ -36,8 +35,3 @@ Last Edit: 2/28/2023
 
 ![image](https://user-images.githubusercontent.com/125587294/221956813-39fe2dc3-2812-4a03-8d39-0c0d72e243cc.png)
 
-
-
-## Introductory Speech
-
-[Speech Document Link]()
