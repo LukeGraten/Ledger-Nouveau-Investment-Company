@@ -1,6 +1,6 @@
 ---
 Title: Lesson 7 Collection
-Description: Adds the slideshow and speech docs together
+Description: Adds the slideshow into the GitHub.
 Last Edit: 2/28/2023
 ---
 
@@ -33,5 +33,6 @@ Last Edit: 2/28/2023
 
 ![image](https://user-images.githubusercontent.com/125587294/221956743-f1e393e2-d74c-40d8-9886-41d8c8884f31.png)
 
-![image](https://user-images.githubusercontent.com/125587294/221956813-39fe2dc3-2812-4a03-8d39-0c0d72e243cc.png)
+![image](https://user-images.githubusercontent.com/125587294/222526449-92c4f075-f2e3-4f30-b2b0-2204e3f33181.png)
+
 
